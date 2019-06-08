@@ -1,4 +1,6 @@
-# geetoPod - Pure PHP Client Example
+![geetoPod - Identiy Solutions](https://github.com/geetopod/geetopod/raw/master/resources/images/geetopod-banner-96.png)
+
+# Pure PHP Client Example
 
 ## Install Google Cloud Console to MacOS
 
